@@ -458,7 +458,7 @@
         <column id="1">
           	<halign>left</halign>
           	<valign>top</valign>
-          	<format>{%ProducerName:2%}{. %InternetSiteTitle%}{. &lt;i&gt;%Title%&lt;/i&gt;}{ [%ShortTitle%]} [online]{. %Editor:3%}{. %Translator:4%}.{ %City%{ (%StateProvince%{, %CountryRegion%})}:}{ %CountryRegion%:}{ %Publisher%,}{{ %Day%.} %Month%. {%Year%}}{ © %Year%}{, verze %Version%}{ [cit. %YearAccessed%{-%MonthAccessed%{-%DayAccessed%}}]}{. %Comments%}.{ Dostupné z: %StandardNumber|URL:s%}</format>
+          	<format>{%Author:2%}{. %InternetSiteTitle% }{ &lt;i&gt;%Title%&lt;/i&gt;}{ [%ShortTitle%]} [online]{. %Editor:3%}{. %Translator:4%}.{ %City%{ (%StateProvince%{, %CountryRegion%})}:}{ %CountryRegion%:}{ %Publisher%,}{{ %Day%.} %Month%. {%Year%}}{ © %Year%}{, verze %Version%}{ [cit. %YearAccessed%{-%MonthAccessed%{-%DayAccessed%}}]}{. %Comments%}.{ Dostupné z: %StandardNumber|URL:s%}</format>
         </column>
         <sortkey>{%Author:0|Title|ShortTitle%}{ %Year%}{ %Title|ShortTitle%}</sortkey>
       </source>
