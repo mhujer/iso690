@@ -1,5 +1,13 @@
 # ČSN ISO 690 pro MS Word
 
+
+----------
+## POZOR, mezitím na http://iso690.codeplex.com/ vyšla nová verze, takže raději používejte tu
+------------
+
+
+
+
 Založeno na http://iso690.codeplex.com/
 
 Upravil jsem si to pro použití ve své BP, takže je možné, že některé věci  (které nevyužívám) nebudou fungovat správně.
